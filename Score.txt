@@ -1,0 +1,8 @@
+Harsh	30
+Pritam	100
+Aman	80
+Mayank	100
+Parth	80
+Ram	90
+Aditya	20
+Aditya	0
